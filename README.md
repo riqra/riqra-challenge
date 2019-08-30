@@ -18,9 +18,9 @@ The challenge is a basic shopping cart that allows you to search, add and remove
 
 Once you have all you need in your shopping cart you can complete the order and a simple thank you page will be rendered.
 
-With this in mind lets take a look at the views you need to build.
-
 You can see the prototype of the project in [Figma](https://www.figma.com/proto/C1cHqoUvqWQaXmZSVKW3tA/Riqra-Challenge?node-id=0%3A3&viewport=-1360%2C66%2C0.5&scaling=min-zoom).
+
+## Screens
 
 ### Empty cart
 
