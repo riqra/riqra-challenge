@@ -113,9 +113,11 @@ A shopping cart product can be removed by clicking on the delete button.
 
 ![image](https://user-images.githubusercontent.com/5007653/64048275-e6a8b780-cb36-11e9-901a-48537eba9b2a.png)
 
-### The Counter component
+### The Product and Counter components
 
-The counter component will opaque the product card when opened and show two knowbs to decrease and increase the product quantity while the number in the middle gets updated as well as the pricing panel.
+> Check the behaviour in [here](http://truck-master.surge.sh/iframe.html?id=product-mobile--with-stock-limit)
+
+The counter component will dull the product component if opened and show two knowbs to decrease and increase the product quantity while the number in the middle gets updated as well as the pricing panel.
 
 ![image](https://user-images.githubusercontent.com/5007653/64048401-3edfb980-cb37-11e9-9325-2ae758bbbf5c.png)
 
