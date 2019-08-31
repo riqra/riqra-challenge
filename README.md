@@ -1,5 +1,5 @@
 
-# Riqra Challenge
+# Riqra Challenge: Full-Stack JavaScript Developers
 
 Welcome to our challenge, it means a lot to us, you already passed the interview process and we are closer to start working as a team.
 
@@ -19,7 +19,9 @@ The challenge is a basic shopping cart, it allows you to search, add, update and
 
 Once you have all you need in your shopping cart you can complete the order and visit the thank you page.
 
-You can see the prototype in [Figma](https://www.figma.com/proto/C1cHqoUvqWQaXmZSVKW3tA/Riqra-Challenge?node-id=0%3A3&viewport=-1360%2C66%2C0.5&scaling=min-zoom).
+You can see the [prototype](https://www.figma.com/proto/C1cHqoUvqWQaXmZSVKW3tA/Riqra-Challenge?node-id=0%3A3&viewport=-1360%2C66%2C0.5&scaling=min-zoom) and the [design inspector](https://www.figma.com/file/C1cHqoUvqWQaXmZSVKW3tA/Riqra-Challenge?node-id=0%3A1)
+
+You will have to signup in Figma in order to use inspector.
 
 ## Screens
 
@@ -29,8 +31,7 @@ At the beginning the cart is empty, the pricing panel is set to zero, the delive
 
 The search box lets you find products.
 
-![Empty Cart](https://user-images.githubusercontent.com/5007653/64045354-a5aca500-cb2e-11e9-8fa9-359a4683e8a2.png)
-
+![Empty Cart](https://user-images.githubusercontent.com/5007653/64066196-82d8ca00-cbdc-11e9-8315-cc8c0a7a4ba0.png)
 
 ### Cart with search results
 
@@ -41,7 +42,7 @@ The cart panel shows the results when the search box is not empty, otherwise, it
 From this view you can add the product using the counter component (see **rules** section).
 
 
-![Cart with Search Results](https://user-images.githubusercontent.com/5007653/64045482-0a67ff80-cb2f-11e9-86d1-60cf5e16d6bf.png)
+![Cart with Search Results](https://user-images.githubusercontent.com/5007653/64066195-82403380-cbdc-11e9-88bb-6638c1c161de.png)
 
 ### Cart with products
 
@@ -49,13 +50,13 @@ Here you can see the products added to our cart, the pricing panel updated and t
 
 Remember that you can only access the cart products if the searchbox is empty.
 
-![Cart with Products](https://user-images.githubusercontent.com/5007653/64045601-531fb880-cb2f-11e9-8f60-96367819d1d3.png)
+![Cart with Products](https://user-images.githubusercontent.com/5007653/64066194-82403380-cbdc-11e9-8927-0cc5c83fd58a.png)
 
 ### Thank you 
 
 Once you complete the order you visit this page, it displays the order code and gives you a link to continue shopping.
 
-![Thank you](https://user-images.githubusercontent.com/5007653/64046634-fffb3500-cb31-11e9-974c-70644e96423f.png)
+![Thank you](https://user-images.githubusercontent.com/5007653/64066197-82d8ca00-cbdc-11e9-8fdc-1dd5f7831915.png)
 
 ## Tools
 
@@ -100,6 +101,7 @@ A person buying on Monday will see Tuesday as the delivery date.
 
 The shipping cost is always 10% of the products cost. 
 Taxes are 18% of the products cost.
+Product prices have taxes included.
 
 Example:
 
