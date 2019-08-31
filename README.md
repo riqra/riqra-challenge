@@ -121,7 +121,7 @@ The complete order button is only enabled and has an orange color if the total p
 
 A shopping cart product can be removed by clicking on the delete button.
 
-![image](https://user-images.githubusercontent.com/5007653/64048275-e6a8b780-cb36-11e9-901a-48537eba9b2a.png)
+![image](https://user-images.githubusercontent.com/5007653/64066260-f4b11380-cbdc-11e9-8c5f-9010e1099731.png)
 
 ### The Product and Counter components
 
@@ -129,7 +129,7 @@ A shopping cart product can be removed by clicking on the delete button.
 
 The counter component will dull the product component if opened and show two knowbs to decrease and increase the product quantity while the number in the middle gets updated as well as the pricing panel.
 
-![image](https://user-images.githubusercontent.com/5007653/64048401-3edfb980-cb37-11e9-9325-2ae758bbbf5c.png)
+![image](https://user-images.githubusercontent.com/5007653/64066262-fa0e5e00-cbdc-11e9-9ae3-25eb1d7c042c.png)
 
 ### Empty cart
 
