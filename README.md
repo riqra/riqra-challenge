@@ -21,7 +21,7 @@ Once you have all you need in your shopping cart you can complete the order and 
 
 You can see the [prototype](https://www.figma.com/proto/C1cHqoUvqWQaXmZSVKW3tA/Riqra-Challenge?node-id=0%3A3&viewport=-1360%2C66%2C0.5&scaling=min-zoom) and the [design inspector](https://www.figma.com/file/C1cHqoUvqWQaXmZSVKW3tA/Riqra-Challenge?node-id=0%3A1)
 
-You will have to signup in Figma in order to use inspector.
+You will have to signup in Figma in order to use the inspector.
 
 ## Screens
 
