@@ -6,11 +6,9 @@ Basically a user should be able to login or signup, and start adding products to
 
 With this in mind lets take a look at what you need to build.
 
-> Note: All the steps from signing up to making the purchase must be tested using a tool like [graphiql](https://github.com/graphql/graphiql) or [graphql-playground](https://github.com/prisma/graphql-playground).
+All the steps from signing up to making the purchase must be tested using a tool like [graphiql](https://github.com/graphql/graphiql) or [graphql-playground](https://github.com/prisma/graphql-playground).
 
-> All GraphQL queries and mutations must be tested using Jest
-
-Requirements:
+## Requirements
 
 ### Auth
 
