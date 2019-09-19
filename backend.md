@@ -4,9 +4,9 @@ The challenge is to build a GraphQL API with a tiny set of the features we curre
 
 Basically a user should be able to login or signup, and start adding products to its shopping cart to finally make a purchase and receive an email notification with a summary.
 
-With this in mind lets take a look at what you need to build.
-
 All the steps from signing up to making the purchase must be tested using a tool like [graphiql](https://github.com/graphql/graphiql) or [graphql-playground](https://github.com/prisma/graphql-playground).
+
+No UI needed.
 
 ## Requirements
 
