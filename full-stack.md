@@ -1,19 +1,4 @@
-
-# Full-Stack JavaScript Developers
-
-Welcome to our challenge, it means a lot to us, you already passed the interview process and we are closer to start working as a team.
-
-### Make sure you...
-
-1. Create a public repository and do your best.
-2. Do not build extra features.
-3. Use the tools mentioned below.
-4. Deploy your solution.
-4. Send the repository and deploy urls via email.
-
-![ninja developer](https://i0.wp.com/people.collabora.co.uk/~mbatle/images/Ninja-pounce.jpg)
-
-## About it
+## Full-Stack JavaScript Developers
 
 The challenge is a basic shopping cart, it allows you to search, add, update and remove products.
 
