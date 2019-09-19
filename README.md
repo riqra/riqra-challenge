@@ -6,7 +6,7 @@ Welcome to our challenge, it means a lot to us, you already passed the interview
 
 1. Create a public repository and do your best.
 2. Do not build extra features.
-3. Use the tools mentioned below.
+3. Use the required tools.
 4. Deploy your solution.
 5. Send the repository and deploy urls via email.
 
