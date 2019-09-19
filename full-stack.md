@@ -1,4 +1,4 @@
-# Full-Stack JavaScript Developers
+# Full-Stack Developer
 
 The challenge is a basic shopping cart, it allows you to search, add, update and remove products.
 
