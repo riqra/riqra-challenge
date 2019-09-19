@@ -8,7 +8,7 @@ You can see the [prototype](https://www.figma.com/proto/C1cHqoUvqWQaXmZSVKW3tA/R
 
 You will have to signup in Figma in order to use the inspector.
 
-## Screens
+## Requirements
 
 ### Empty cart
 
