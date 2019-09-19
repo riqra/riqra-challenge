@@ -1,18 +1,4 @@
-
 # Backend Developer
-
-Welcome to our challenge, it means a lot to us, you already passed the interview process and we are closer to start working as a team.
-
-### Make sure you...
-
-1. Create a public repository and do your best.
-2. Do not build extra features.
-3. Use the tools mentioned below.
-4. Send the repository url via email.
-
-![enter image description here](https://i0.wp.com/people.collabora.co.uk/~mbatle/images/Ninja-pounce.jpg)
-
-## About it
 
 The challenge is to build a GraphQL API with a tiny set of the features we currently have in production.
 
