@@ -49,6 +49,8 @@ A logged in user is able to create its own products.
 
 Create a search query in the schema that receives a term, page and limit parameters using Algolia in the resolver.
 
+Since users do not share products, they cannot find others products while searching.
+
 - The term can be the product's name or brand.
 - When the term is empty, the query returns all the entries.
 - Limit and page parameters are used for pagination.
