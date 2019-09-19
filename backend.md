@@ -74,6 +74,6 @@ Order properties: code, total, tax, subtotal.
 
 Create a mutation to convert the user's cart into an actual order and generate a code for it.
 
-- The order code should be incremental, and must have 5 characters including the P. For the first order the code will be P0001 for the order 20 the code should be P0020.
+- The order code should be incremental, and must have 5 characters including the P. For the first order the code will be P0001 for the order 20 the code should be P0020. The code is not shared between users, there can 2 users with the same order code.
 - An email should be sent to the user once the order is created.
 - The user must be able to list all its orders.
