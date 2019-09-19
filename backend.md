@@ -79,3 +79,22 @@ Create a mutation to convert the user's cart into an actual order and generate a
 - The order code should be incremental, and must have 5 characters including the P. For the first order the code will be P0001 for the order 20 the code should be P0020. The code is not shared between users, there can 2 users with the same order code.
 - An email should be sent to the user once the order is created.
 - The user must be able to list all its orders.
+
+## Tools
+
+### Backend
+
+1. Use [graphql-js](https://github.com/graphql/graphql-js) to build the api
+2. Use MySQL as database and [sequelize](https://github.com/sequelize/sequelize) as ORM to handle operations.
+3. Use [express](https://github.com/expressjs/express) as server.
+
+### Deploy
+
+1. Use [Heroku](https://www.heroku.com/) as plataform to deploy.
+2. Use [JawsDB](https://elements.heroku.com/addons/jawsdb) as the addon to deploy your MySQL database.
+
+## Resources
+
+1. [How to GraphQL](https://www.howtographql.com/)
+2. [Beginner GraphQL Series](https://www.youtube.com/watch?v=DyvsMKsEsyE&list=PLN3n1USn4xln0j_NN9k4j5hS1thsGibKi)
+3. [Learn Sequelize](https://www.youtube.com/watch?v=pxo7L5nd1gA)
