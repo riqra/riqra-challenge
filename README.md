@@ -1,5 +1,4 @@
-
-# Riqra Challenge: Full-Stack JavaScript Developers
+# Riqra Challenge
 
 Welcome to our challenge, it means a lot to us, you already passed the interview process and we are closer to start working as a team.
 
@@ -13,5 +12,7 @@ Welcome to our challenge, it means a lot to us, you already passed the interview
 
 ### Choose your side
 
-[Full Stack](https://github.com/riqra/riqra-challenge/blob/master/full-stack.md)
-[Backend](https://github.com/riqra/riqra-challenge/blob/master/backend.md)
+1. [Full Stack](https://github.com/riqra/riqra-challenge/blob/master/full-stack.md)
+2. [Backend](https://github.com/riqra/riqra-challenge/blob/master/backend.md)
+
+![ninja](https://user-images.githubusercontent.com/5007653/65284118-470b9300-dafe-11e9-8622-e90c12bf696e.png)
