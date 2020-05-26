@@ -47,7 +47,7 @@ Once you complete the order you visit this page, it displays the order code and 
 
 ### Frontend
 
-1. Use [create-react-app](https://github.com/facebook/create-react-app) to setup the project.
+1. Use [next.js](https://github.com/zeit/next.js/) to setup the project.
 2. Use [styled-components](https://github.com/styled-components/styled-components) to style the components.
 3. Use [apollo-client](https://github.com/apollographql/apollo-client) to communicate with the backend and state management.
 4. Use [reach-router](https://github.com/reach/router) as the router.
