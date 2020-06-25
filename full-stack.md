@@ -4,11 +4,11 @@ The assignment is designed to check your coding and problem-solving skills. It i
 
 What we evaluate in the code:
 
-Domain model design
-Code organization (modularity, dependencies between modules, etc)
-Exception handling and logging
-Writing and organizing tests
-Asynchronous programming
+- Domain model design
+- Code organization (modularity, dependencies between modules, etc)
+- Exception handling and logging
+- Writing and organizing tests
+- Asynchronous programming
 
 The challenge is a basic shopping cart, it allows you to search, add, update and remove products.
 
