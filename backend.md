@@ -96,8 +96,9 @@ Create a mutation to convert the user's cart into an actual order and generate a
 ### Backend
 
 1. Use [graphql-js](https://github.com/graphql/graphql-js) to build the api
-2. Use MySQL as database and [sequelize](https://github.com/sequelize/sequelize) as ORM to handle operations.
-3. Use [express](https://github.com/expressjs/express) as server.
+1. Use Typescript for the code.
+1. Use MySQL as database and [sequelize](https://github.com/sequelize/sequelize) as ORM to handle operations.
+1. Use [express](https://github.com/expressjs/express) as server.
 
 ### Deploy
 
