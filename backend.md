@@ -1,5 +1,16 @@
 # Backend Developer
 
+The assignment is designed to check your coding and problem-solving skills. It is intentionally made too big. We suggest you spend a maximum of 4-5 hours on it, therefore you need to decide which parts of the system you will code and which you will mock. For example, we are more interested in Architecture and Domain model design than in Database setup or resolver implementations.
+
+What we evaluate in the code:
+
+- Domain model design (usage of DDD concepts: aggregates, value objects, domain services, etc)
+- Messaging (Commands and Events)
+- Code organization (modularity, dependencies between modules, etc)
+- Exception handling and logging
+- Writing and organizing tests
+- Task-based asynchronous programming
+
 The challenge is to build a GraphQL API with a tiny set of the features we currently have in production.
 
 Basically a user should be able to login or signup, and start adding products to its shopping cart to finally make a purchase and receive an email notification with a summary.
