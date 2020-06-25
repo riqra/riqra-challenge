@@ -1,5 +1,15 @@
 # Full-Stack Developer
 
+The assignment is designed to check your coding and problem-solving skills. It is intentionally made too big. We suggest you spend a maximum of 4-5 hours on it, therefore you need to decide which parts of the system you will code and which you will mock. For example, we are more interested in Architecture and Domain model design than in tooling setup.
+
+What we evaluate in the code:
+
+Domain model design
+Code organization (modularity, dependencies between modules, etc)
+Exception handling and logging
+Writing and organizing tests
+Asynchronous programming
+
 The challenge is a basic shopping cart, it allows you to search, add, update and remove products.
 
 Once you have all you need in your shopping cart you can complete the order and visit the thank you page.
@@ -48,15 +58,17 @@ Once you complete the order you visit this page, it displays the order code and 
 ### Frontend
 
 1. Use [next.js](https://github.com/zeit/next.js/) to setup the project.
-2. Use [styled-components](https://github.com/styled-components/styled-components) to style the components.
-3. Use [apollo-client](https://github.com/apollographql/apollo-client) to communicate with the backend and state management.
-4. Use [reach-router](https://github.com/reach/router) as the router.
+1. Use Typescript.
+1. Use [styled-components](https://github.com/styled-components/styled-components) to style the components.
+1. Use [apollo-client](https://github.com/apollographql/apollo-client) to communicate with the backend and state management.
+1. Use [reach-router](https://github.com/reach/router) as the router.
 
 ### Backend
 
 1. Use [graphql-js](https://github.com/graphql/graphql-js) to build the api
-2. Use MySQL as database and [sequelize](https://github.com/sequelize/sequelize) as ORM to handle operations.
-3. Use [express](https://github.com/expressjs/express) as server.
+1. Use Typescript.
+1. Use MySQL as database and [sequelize](https://github.com/sequelize/sequelize) as ORM to handle operations.
+1. Use [express](https://github.com/expressjs/express) as server.
 
 ### Deploy
 
