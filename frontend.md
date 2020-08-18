@@ -1,4 +1,4 @@
-# Full-Stack Developer
+# Frontend Developer
 
 The assignment is designed to check your coding and problem-solving skills. We are more interested in Architecture and Domain model design than in tooling setup.
 
