@@ -1,11 +1,11 @@
 # Full-Stack Developer
 
-The assignment is designed to check your coding and problem-solving skills. It is intentionally made too big. We suggest you spend a maximum of 4-5 hours on it, therefore you need to decide which parts of the system you will code and which you will mock. For example, we are more interested in Architecture and Domain model design than in tooling setup.
+The assignment is designed to check your coding and problem-solving skills. We are more interested in Architecture and Domain model design than in tooling setup.
 
 What we evaluate in the code:
 
-- Domain model design
-- Code organization (modularity, dependencies between modules, etc)
+- Modularity
+- Code organization
 - Exception handling and logging
 - Writing and organizing tests
 - Asynchronous programming
@@ -36,7 +36,6 @@ The cart panel shows the results when the search box is not empty, otherwise, it
 
 From this view you can add the product using the counter component (see **rules** section).
 
-
 ![Cart with Search Results](https://user-images.githubusercontent.com/5007653/64066195-82403380-cbdc-11e9-88bb-6638c1c161de.png)
 
 ### Cart with products
@@ -55,31 +54,14 @@ Once you complete the order you visit this page, it displays the order code and 
 
 ## Tools
 
-### Frontend
-
 1. Use [next.js](https://github.com/zeit/next.js/) to setup the project.
 1. Use Typescript.
 1. Use [styled-components](https://github.com/styled-components/styled-components) to style the components.
-1. Use [apollo-client](https://github.com/apollographql/apollo-client) to communicate with the backend and state management.
-1. Use [reach-router](https://github.com/reach/router) as the router.
-
-### Backend
-
-1. Use [graphql-js](https://github.com/graphql/graphql-js) to build the api
-1. Use Typescript.
-1. Use MySQL as database and [sequelize](https://github.com/sequelize/sequelize) as ORM to handle operations.
-1. Use [express](https://github.com/expressjs/express) as server.
+1. Use [apollo-client](https://github.com/apollographql/apollo-client) as state manager with apollo link state and local resolvers. We use GraphQL in production, but we don't want you to build backend for this challenge.
 
 ### Deploy
 
 1. Use [Heroku](https://www.heroku.com/) as plataform to deploy.
-2. Use [JawsDB](https://elements.heroku.com/addons/jawsdb) as the addon to deploy your MySQL database.
-
-## Resources
-
-1. [How to GraphQL](https://www.howtographql.com/)
-2. [Beginner GraphQL Series](https://www.youtube.com/watch?v=DyvsMKsEsyE&list=PLN3n1USn4xln0j_NN9k4j5hS1thsGibKi)
-3. [Learn Sequelize](https://www.youtube.com/watch?v=pxo7L5nd1gA)
 
 ## Rules
 
