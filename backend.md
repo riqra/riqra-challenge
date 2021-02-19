@@ -70,8 +70,8 @@ catalog shape example:
 
 ## Deliverables
 
-1. Use GraphQL to build the API.
-1. Use the Typescript as language.
+1. Use Rest to build the API.
+1. Use the language you want.
 1. Use any database as data store.
 1. Use any cloud provider to deploy, make sure we can play with the API.
 1. Setup a CI server to run your tests, we must be able to check all tests passing.
